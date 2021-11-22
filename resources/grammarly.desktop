@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Grammarly
+Comment=Grammarly Editor for Linux
+Exec=/opt/Grammarly/Grammarly
+Icon=/opt/Grammarly/resources/app/icon.png
+Terminal=False
